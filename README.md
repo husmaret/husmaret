@@ -26,7 +26,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!--![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 
-I am a Full Stack Senior Software Engineer with 12+ years of experience specializing in Java (J2EE) development, Blockchain, DevOps, as well as web development (React, Angualar). Throughout my career, I worked mostly for clients in the insurance industry, but also have contributed for other industries.
+I am a Full Stack Senior Software Engineer with 12+ years of experience specializing in Java (J2EE) development, Blockchain, DevOps, as well as web development (Node.js, Next.js, React, Angular). Throughout my career, I worked mostly for clients in the insurance industry, but also have contributed for other industries.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
