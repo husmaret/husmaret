@@ -30,12 +30,17 @@ I am a Full Stack Senior Software Engineer with 12+ years of experience speciali
 
 I am always ready to learn a new technology and expand my knowledge!
 
+**Open to Work
+
 - 🔭 I am currently working on my master thesis about designing a domain-specific language (DSL) for smart contract development.
 - 🌱 I am currently learning vector databases and integration of LLMs.
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+
+- 💬 Ask me about Java, React.js, API development and anything Blockchain
+- :wrench: Tools - VSCode, Eclipse, Postman, Docker and many more
+
+<!-- - 🤔 I am looking for a -->
+<!-- - ⚡ Fun fact: ... -->
+<!-- - 👯 I am looking to collaborate on any open source project with -->
 
 <!--
 - :fireworks: I was the lead organizer of WordCamp Dhaka 2019. I have arranged and took sessions in numbers of local WordPress, PHP and JavaScript meetups, seminars and conferences.
@@ -54,6 +59,7 @@ I am always ready to learn a new technology and expand my knowledge!
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reto-husmann/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11739931/retoen)
 
 
 
