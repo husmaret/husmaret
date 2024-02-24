@@ -36,12 +36,11 @@ I am a Full Stack Senior Software Engineer with 12+ years of experience speciali
 
 I am always ready to learn a new technology and expand my knowledge!
 
-**Open to Work
 
 - 🔭 I am currently working on my master thesis about designing a domain-specific language (DSL) for smart contract development.
 - 🌱 I am currently learning vector databases and integration of LLMs.
 
-- 💬 Ask me about Java, React.js, API development and anything Blockchain
+- 💬 Ask me about Java, React.js, Vue JS, API development and anything related to Blockchain and Smart Contract
 - :wrench: Tools - VSCode, Eclipse, Postman, Docker and many more
 
 <!-- - 🤔 I am looking for a -->
